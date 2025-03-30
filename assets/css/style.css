@@ -245,6 +245,10 @@ article {
   width: 18px;
 }
 
+.icon-box .contact-img {
+  width: 32px;
+}
+
 article {
   display: none;
 }
